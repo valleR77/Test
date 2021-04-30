@@ -312,8 +312,9 @@ background-color: #ffffff;
 	margin-top: 48px;
 	color: #ffffff;
 	font-family: "Titillium Web";
-	font-size: 14px;
+	font-size: 10px;
 	font-weight: 400;
+
 }
 
 @media screen and (max-width: 1199px) {
@@ -357,7 +358,7 @@ background-color: #ffffff;
 
 
 	
-}
+
 
 
 
